@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@adonisjs/static": "^1.1.1"
+  }
+}
